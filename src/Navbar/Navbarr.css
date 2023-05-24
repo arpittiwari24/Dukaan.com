@@ -1,0 +1,13 @@
+img{
+    width: 5rem;
+}
+.background {
+    background-color: gray;
+}
+.search-bar {
+    padding-right: 200px !important;
+}
+#navbar-search-form{
+    width:430px !important;
+}
+
